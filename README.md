@@ -24,7 +24,7 @@ Just include `openmq` in your node's `run_list`:
 
 Contributing
 ------------
-1. Fork the repository on Github
+1. Fork the repository on Github (https://github.com/seges/chef-cookbook-openmq)
 2. Create a named feature branch (like `add_component_x`)
 3. Write your change
 4. Write tests for your change (if applicable)
