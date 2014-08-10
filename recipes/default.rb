@@ -7,9 +7,7 @@
 # All rights reserved - Do Not Redistribute
 #
 
-include_recipe "java"
 include_recipe "zip"
-
 
 src_filename = node[:openmq][:archive_file]
 src_filepath = "#{Chef::Config['file_cache_path']}/#{src_filename}"
